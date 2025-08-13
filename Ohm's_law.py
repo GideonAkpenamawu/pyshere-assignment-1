@@ -12,6 +12,4 @@ r= float(input("Enter the resistance (R): "))
 v=i*r
 
 # print the result
-print(f"The voltage is: {v} V")
-# Argument Sign Script
-4
+print(f"The voltage is: {v} Volts")
